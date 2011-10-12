@@ -1,6 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/david/projects/tvsmanager/media/js/transloc/entrytool/schedule_editor_2/model'
-let g:netrw_dirhist_2='/home/david/projects/tvsmanager/media/css/2.0/entrytool/schedule_editor_2'
-let g:netrw_dirhist_3='/home/david/projects/tvsmanager/.git/logs/refs/heads'
-let g:netrw_dirhist_4='/home/user/Dropbox/Linux/.vim/autoload'
+let g:netrw_dirhist_cnt =0
